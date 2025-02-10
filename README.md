@@ -15,11 +15,11 @@ Evaluating bike ride durations from Baylis Road, Waterloo Station
 | `Duration`     | duration of the ride in seconds         |
 | `Bike Id` | identification code of the bike                 |
 | `End Date` | day, hour and minute in which the ride ended        |
-| `EndStation Id` | identification code of the station the rided ended    |
-| `EndStation Name` | name of the station the rided ended    |
+| `EndStation Id` | identification code of the station the ride ended    |
+| `EndStation Name` | name of the station the ride ended    |
 | `Start Date` | day, hour and minute in which the ride started     |
-| `StartStation Id` | identification code of the station the rided started     |
-| `StartStation Name` |name of the station the rided started     | 
+| `StartStation Id` | identification code of the station the ride started     |
+| `StartStation Name` |name of the station the ride started     | 
 
 ## Description
 * This project aims to examine, analyze, and gain insights into the cycle hire usage in London during 2014 and consequently determine if the provided research hypothesis is true.
