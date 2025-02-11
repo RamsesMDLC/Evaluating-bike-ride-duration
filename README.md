@@ -29,4 +29,7 @@ Evaluating bike ride durations from Baylis Road, Waterloo Station
   *  T-test for the means of two independent samples
 
 ## Key Insight
-* The mean duration of a ride per season in 2014 were:  Winter  (1321.81  seconds), Autumn (1356.78 seconds), Spring (1519.98  seconds), and Summer (1596.03  seconds); which is consistent  with the behavior patterns of the people due to weather conditions. 
+* The mean duration of a ride per season in 2014 were:  Winter  (1321.81  seconds), Autumn (1356.78 seconds), Spring (1519.98  seconds), and Summer (1596.03  seconds); which is consistent  with the behavior patterns of the people due to weather conditions.
+
+![image](https://github.com/user-attachments/assets/80413584-3737-46c0-91b7-deb04ac2579c)
+
